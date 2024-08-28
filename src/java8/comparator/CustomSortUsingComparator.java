@@ -1,6 +1,7 @@
 package java8.comparator;
 
-import com.java8.Course;
+
+import java8.Course;
 
 import java.util.Comparator;
 import java.util.List;
